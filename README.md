@@ -1,1 +1,1 @@
-# OCRApp is text recognize application for using to extract text from hard document.
+# OCRApp is text recognition application which use to extract text from hard copy document.
