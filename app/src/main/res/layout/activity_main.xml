@@ -16,7 +16,7 @@
         android:id="@+id/text_view"
         android:text="no text"
         android:layout_alignParentBottom="true"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/green"
         android:textSize="20sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
