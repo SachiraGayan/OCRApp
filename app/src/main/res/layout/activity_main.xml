@@ -12,14 +12,15 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
+
     <TextView
         android:id="@+id/text_view"
-        android:text="no text"
-        android:layout_alignParentBottom="true"
-        android:textColor="@android:color/green"
-        android:textSize="20sp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="no text"
+        android:textColor="@android:color/holo_green_light"
+        android:textSize="20sp" />
 
 
 </RelativeLayout>
